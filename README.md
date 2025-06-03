@@ -1,3 +1,4 @@
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?style=flat&logo=python&logoColor=white)
 # Friday Night Funkin' Sprite to GIF Exporter
 
 Hello!
